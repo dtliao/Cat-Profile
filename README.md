@@ -1,3 +1,3 @@
-## Cat Profile
-Cat Profile App using React and ES6.
+## Cat Profiles
+Cat Profiles App using React and ES6.
 
