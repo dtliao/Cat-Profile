@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cat-Profiles/static/css/main.d8ee59ed.chunk.css",
+    "main.js": "/Cat-Profiles/static/js/main.777c068c.chunk.js",
+    "main.js.map": "/Cat-Profiles/static/js/main.777c068c.chunk.js.map",
+    "runtime-main.js": "/Cat-Profiles/static/js/runtime-main.4d2f39c8.js",
+    "runtime-main.js.map": "/Cat-Profiles/static/js/runtime-main.4d2f39c8.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Cat-Profiles/static/css/2.fe359a49.chunk.css",
+    "static/js/2.481a47a0.chunk.js": "/Cat-Profiles/static/js/2.481a47a0.chunk.js",
+    "static/js/2.481a47a0.chunk.js.map": "/Cat-Profiles/static/js/2.481a47a0.chunk.js.map",
+    "index.html": "/Cat-Profiles/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Cat-Profiles/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.d8ee59ed.chunk.css.map": "/Cat-Profiles/static/css/main.d8ee59ed.chunk.css.map",
+    "static/js/2.481a47a0.chunk.js.LICENSE.txt": "/Cat-Profiles/static/js/2.481a47a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Cat-Profiles/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2f39c8.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.481a47a0.chunk.js",
+    "static/css/main.d8ee59ed.chunk.css",
+    "static/js/main.777c068c.chunk.js"
+  ]
+}
